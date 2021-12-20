@@ -2,7 +2,7 @@
 
 ![The Bingo Board!](BingoBoard.jpg)
 
-Bingo is a game I played as a child. I used to go with my parents to the Bingo hall. Occasionlly I would play with the other kids that were there, but most of the time I would join my parents and play the games. I created the game so that I could play with my kids.
+Bingo is a game I played as a child. I used to go with my parents to the Bingo hall. Occasionlly I would play with the other kids that were there, but most of the time I would join my parents and play the games. I created the game so that I could play with my kids. The audio clips are recordings of my children calling the numbers. 
 
 It's an easy game. You pick a card or card(s). There is a Bingo caller who calls the numbers, from 1 - 75, until someone gets a bingo. Various games are played. A traditional Bingo game is played by getting all numbers that form a straight line, diagonal or four corners. The player yells out Bingo, the numbers are checked to verify that the Bingo is valid, if so, the game ends and a new game begins, if the Bingo is not valid, the game continues until there is a valid winner. 
 
